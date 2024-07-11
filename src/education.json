@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "school": "Manarat Al-Riyadh International School",
+        "resident": "Riyadh, Saudi Arabia",
+        "start_date": "January 2024",
+        "end_date": "PRESENT"
+    },
+
+    {
+        "id": 2,
+        "school": "Aitchison College",
+        "resident": "Lahore, Pakistan",
+        "start_date": "August 2020",
+        "end_date": "January 2024"
+    },
+
+    {
+        "id": 3,
+        "school": "Saud International School",
+        "resident": "Riyadh, Saudi Arabia",
+        "start_date": "August 2011",
+        "end_date": "June 2020"
+    }
+]

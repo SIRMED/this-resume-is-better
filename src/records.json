@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "firm": "Hum Mashal-e-Rah",
+        "city-location": "Lahore",
+        "country": "Pakistan",
+        "start": "November 2022",
+        "end": "PRESENT",
+        "work": "04 hours at community service at Children's hospital"
+    },
+    
+    {
+        "id": 2,
+        "firm": "Shaukat Khanum Cancer Hospital & Research Center,",
+        "city-location": "Lahore",
+        "country": "Pakistan",
+        "start": "January 2023",
+        "end": "September 2023",
+        "work": "Intern in Marketing and Resource Development Department"
+    },
+
+    {
+        "id": 3,
+        "firm": "Al-Luhaid & Al-Yahya Chartered Accountants",
+        "city-location": "Riyadh",
+        "country": "Saudi Arabia",
+        "start": "July 2023",
+        "end": "August 2023",
+        "work": "126 Hours of Auditing as a trainee"
+    }    
+]
